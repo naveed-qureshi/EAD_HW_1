@@ -1,0 +1,11 @@
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\bin\Debug\netcoreapp2.1\EAD_ASNMT_1.deps.json
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\bin\Debug\netcoreapp2.1\EAD_ASNMT_1.runtimeconfig.json
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\bin\Debug\netcoreapp2.1\EAD_ASNMT_1.runtimeconfig.dev.json
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\bin\Debug\netcoreapp2.1\EAD_ASNMT_1.dll
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\bin\Debug\netcoreapp2.1\EAD_ASNMT_1.pdb
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.csprojAssemblyReference.cache
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.AssemblyInfoInputs.cache
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.AssemblyInfo.cs
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.dll
+C:\Users\Muhammad Naveed\source\repos\EAD_ASNMT_1\obj\Debug\netcoreapp2.1\EAD_ASNMT_1.pdb
